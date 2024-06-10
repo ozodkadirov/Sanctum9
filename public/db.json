@@ -1,0 +1,78 @@
+{
+    "products": [
+        {
+            "id": 1 ,
+            "title": "Овальная чугунная ванна" ,
+            "price": 11280000, 
+            "quantity": 1 , 
+            "category": ["toilet"] ,
+            "style": ["Modern"],
+            "materials": ["Акрил"],
+            "form": ["Овальная"],
+            "size": 50,
+            "image": "/assests/images/product-card1.jpg"
+        },
+        {
+            "id": 1 ,
+            "title": "Овальная чугунная ванна" ,
+            "price": 11280000, 
+            "quantity": 1 , 
+            "category": ["bath", "smth"] ,
+            "style": "Лфот",
+            "materials": "Керамика",
+            "form": "Угловая",
+            "size": 50,
+            "image": "/assests/images/product-card1.jpg"
+        },
+        {
+            "id": 1 ,
+            "title": "Овальная чугунная ванна" ,
+            "price": 11280000, 
+            "quantity": 1 , 
+            "category": ["faucets", "smth"] ,
+            "style": "Классический",
+            "materials": "Камень",
+            "form": "Круглая",
+            "size": 50,
+            "image": "/assests/images/product-card1.jpg"
+        },
+        {
+            "id": 1 ,
+            "title": "Овальная чугунная ванна" ,
+            "price": 11280000, 
+            "quantity": 1 , 
+            "category": ["shells", "smth"] ,
+            "style": "Ретро",
+            "materials": "Чугун",
+            "form": "Прямоугольник",
+            "size": 50,
+            "image": "/assests/images/product-card1.jpg"
+        },
+        {
+            "id": 1 ,
+            "title": "Овальная чугунная ванна" ,
+            "price": 11280000, 
+            "quantity": 1 , 
+            "category": ["shells", "smth"] ,
+            "style": "Арт-Деко",
+            "materials": "Сталь",
+            "form": "Нестандартная",
+            "size": 50,
+            "image": "/assests/images/product-card1.jpg"
+        },
+        {
+            "id": 1 ,
+            "title": "Овальная чугунная ванна" ,
+            "price": 11280000, 
+            "quantity": 1 , 
+            "category": ["shells", "smth"] ,
+            "style": "Hi-Tech",
+            "materials": "Стекло",
+            "form": "Квадтратная",
+            "size": 50,
+            "image": "/assests/images/product-card1.jpg"
+        }
+        
+
+    ]
+}

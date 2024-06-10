@@ -1,0 +1,100 @@
+.Typography__1 {
+    font-size: 80px;
+}
+
+.Typography__2 {
+    font-size: 50px;
+}
+
+.Typography__3 {
+    font-size: 40px;
+}
+
+.Typography__4 {
+    font-size: 35px;
+}
+
+.font-100 {
+    font-weight: 100 !important;
+}
+
+.font-200 {
+    font-weight: 200 !important;
+}
+
+.font-300 {
+    font-weight: 300 !important;
+}
+
+.font-400 {
+    font-weight: 400 !important;
+}
+
+.font-500 {
+    font-weight: 500 !important;
+}
+
+.font-600 {
+    font-weight: 600 !important;
+}
+
+.font-700 {
+    font-weight: 700 !important;
+}
+
+.font-800 {
+    font-weight: 800 !important;
+}
+
+.font-900 {
+    font-weight: 900 !important;
+}
+
+.Text {
+    font-size: 20px;
+}
+
+.color-secondary1 {
+    color: rgba(0, 0, 0, 0.8);
+}
+
+.color-secondary2 {
+    color: rgba(0, 0, 0, 0.75);
+}
+
+.color-secondary3 {
+    color: rgba(0, 0, 0, 0.5);
+}
+.Product__card{
+    gap: 25px;
+    max-width: 407px;
+    width: 100%;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    align-items: center;
+    border: 2px solid #51ABFFB8;
+    p{
+
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 24.38px;
+  text-align: left;
+  
+    }
+    button{
+        color: #51ABFFB8;
+        background-color: transparent;
+    border: 2px solid #51ABFFB8;
+  padding: 15px 85px;
+  border-radius: 10px;
+font-size: 20px;
+font-weight: 500;
+line-height: 24.38px;
+text-align: left;
+
+  
+    }
+  
+  }
